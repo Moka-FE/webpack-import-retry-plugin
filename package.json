@@ -1,0 +1,23 @@
+{
+  "name": "@moka-fe/webpack-import-retry-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moka-FE/webpack-import-retry-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "retry"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moka-FE/webpack-import-retry-plugin/issues"
+  },
+  "homepage": "https://github.com/Moka-FE/webpack-import-retry-plugin#readme"
+}
